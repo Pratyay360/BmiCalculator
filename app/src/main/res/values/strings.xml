@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bmi Calculator</string>
+    <string name="bmi_calculator">Bmi Calculator</string>
+    <string name="todo">TODO</string>
+    <string name="calculate_bmi">Calculate Bmi</string>
+    <string name="what_is_bmi">What Is Bmi ?</string>
+
+    <string name="body_mass_index">Body Mass Index (BMI) is a person\'s weight in kilograms divided by the square of height in meters. A high BMI can be an indicator of high body fatness. BMI can be used to screen for weight categories that may lead to health problems but it is not diagnostic of the body fatness or health of an individual.</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age</string>
+    <string name="inch">Inch</string>
+    <string name="feet">Feet</string>
+    <string name="weight_kg">Weight (Kg)</string>
+    <string name="calculate">Calculate</string>
+</resources>
